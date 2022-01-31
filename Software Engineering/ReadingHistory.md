@@ -1,6 +1,7 @@
 # Beginning Software Engineering
-## Rod Stephens
+Rod Stephens
 
+![Cover Page](/Users/roger.rangel/Documents/GitHub/Books/Software Engineering/Beginning-Software-Engineering-Rod-Stephens-Cover.jpeg)
 
 ## Chapters Completed
 
