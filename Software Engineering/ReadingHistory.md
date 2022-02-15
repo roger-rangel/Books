@@ -11,4 +11,4 @@ Rod Stephens
   - Chapter 3 : Project Management
   - Chapter 4 : Requirement Gathering
   - Chapter 5 : High-Level Design
- 
+  - Chapter 6 : Low-Level Design
