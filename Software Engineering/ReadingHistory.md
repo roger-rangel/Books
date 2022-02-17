@@ -13,3 +13,4 @@ Rod Stephens
   - Chapter 5 : High-Level Design
   - Chapter 6 : Low-Level Design
   - Chapter 7 : Development
+  - Chapter 8 : Testing
