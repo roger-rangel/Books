@@ -14,3 +14,4 @@ Rod Stephens
   - Chapter 6 : Low-Level Design
   - Chapter 7 : Development
   - Chapter 8 : Testing
+  - Chapter 9 : Deployment
