@@ -15,3 +15,4 @@ Rod Stephens
   - Chapter 7 : Development
   - Chapter 8 : Testing
   - Chapter 9 : Deployment
+  - Chapter 10 : Metrics
