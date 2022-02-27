@@ -16,3 +16,4 @@ Rod Stephens
   - Chapter 8 : Testing
   - Chapter 9 : Deployment
   - Chapter 10 : Metrics
+  - Chapter 11 : Maintenance
