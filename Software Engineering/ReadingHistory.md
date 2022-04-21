@@ -1,7 +1,7 @@
 # Beginning Software Engineering
 Rod Stephens
 
-![image](https://images-na.ssl-images-amazon.com/images/I/51A8KD1X8iL._SX399_BO1,204,203,200_.jpg)
+![image](https://books.google.pl/books/publisher/content?id=SyHWBgAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U3uqK0Q6sqIY_GQfRZQ-9A5IzydIg&w=1280)
 
 ## Chapters Completed
 
