@@ -17,7 +17,7 @@ Rod Stephens
   - Chapter 9 : Deployment
   - Chapter 10 : Metrics
   - Chapter 11 : Maintenance
-  - **Part 2: Process Models**
+- **Part 2: Process Models**
   - Chapter 12 : Predictive Models
   - Chapter 13 : Iterative Models
   - Chapter 14 : RAD
