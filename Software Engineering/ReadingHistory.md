@@ -1,7 +1,7 @@
 # Beginning Software Engineering
 Rod Stephens
 
-![Cover Page](https://github.com/roger-rangel/Books/blob/main/Software%20Engineering/Beginning-Software-Engineering-Rod-Stephens-Cover.jpeg)
+![image](https://books.google.pl/books/publisher/content?id=SyHWBgAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&sig=ACfU3U3uqK0Q6sqIY_GQfRZQ-9A5IzydIg&w=1280)
 
 ## Chapters Completed
 
@@ -20,4 +20,7 @@ Rod Stephens
   - **Part 2: Process Models**
   - Chapter 12 : Predictive Models
   - Chapter 13 : Iterative Models
+<<<<<<< HEAD
   - Chapter 14 : RAD
+=======
+>>>>>>> 2b586d40f263eb541e6c2837524e0c5c67a73cce
