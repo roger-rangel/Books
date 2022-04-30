@@ -20,7 +20,4 @@ Rod Stephens
   - **Part 2: Process Models**
   - Chapter 12 : Predictive Models
   - Chapter 13 : Iterative Models
-<<<<<<< HEAD
   - Chapter 14 : RAD
-=======
->>>>>>> 2b586d40f263eb541e6c2837524e0c5c67a73cce
