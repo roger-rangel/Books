@@ -8,3 +8,5 @@ Rod Stephens
   - Chapter 1 : Introduction
   - Chapter 2 : Basic JavaScript: values, variables, and control flow
   - Chapter 3 : Functions
+  - Chapter 4 : Data Structures - Objects and Arrays
+  - Chapter 5 : Higher Order Functions
