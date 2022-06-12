@@ -10,3 +10,4 @@ Rod Stephens
   - Chapter 3 : Functions
   - Chapter 4 : Data Structures - Objects and Arrays
   - Chapter 5 : Higher Order Functions
+  - Chapter 6 : The Secret Life of Objects
