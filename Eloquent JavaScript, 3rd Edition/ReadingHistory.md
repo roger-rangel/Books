@@ -12,3 +12,4 @@ Rod Stephens
   - Chapter 5 : Higher Order Functions
   - Chapter 6 : The Secret Life of Objects
   - Chapter 7 : Project - A Robot
+  - Chapter 8 : Bugs and Errors
